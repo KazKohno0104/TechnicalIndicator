@@ -1,0 +1,8 @@
+# emacsのbackup fileは不要
+*~
+
+# csv fileは不要
+*.csv
+
+# png fileは不要
+*.png
